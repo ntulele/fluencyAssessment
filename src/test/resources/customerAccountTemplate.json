@@ -1,0 +1,20 @@
+{
+    "address1": "1 Fluency Ave.",
+    "address2": "Apt 202",
+    "addressCity": "San Francisco",
+    "addressCountry": "US",
+    "addressPostalCode": "94103",
+    "addressState": "CA",
+    "approvedAccountBudget": 500,
+    "currencyCode": "USD",
+    "customerAccountUuid": "customerAcctUuid-_UUID_",
+    "labels": null,
+    "name": "Joe's Dealership",
+    "overspendProtectionEnabled": false,
+    "primaryDomain": "www.mydomain.com",
+    "primaryVertical": "automotive",
+    "removed": false,
+    "secureDomain": false,
+    "status": "ENABLED",
+    "timeZone": "America/New_York"
+  }
